@@ -7,14 +7,17 @@ This repository contains the solutions and (their corresponding) dependencies fo
 The repository is structured as follows:
 
 ```
-aoc-23-practice/
+aoc-23-practice/                # Root directory
 |- README.md
+|- .gitignore
 |- day01/                       # Day01 directory
 |- day02/                       # Day02 directory
-  |- src/                       # Source files for solutions
+  |- src/                       # .
+
   |- include/                   # Header files
   |- tests/                     # Unit tests for solutions
   |- Makefile                   # Makefile to build and test solutions
+  |- requirements.txt           # Parameters of that day's challenge 
 ```
 
 ## Usage
