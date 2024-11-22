@@ -6,13 +6,19 @@ This repository contains the solutions and (their corresponding) dependencies fo
 
 The repository is structured as follows:
 
-> ### aoc-23-practice/
->
-> |- day01                       # Day 01 Files
->   |- src/                      # Source files for solutions
->   |- include/                  # Header files
->   |- Makefile                  # Makefile to build and test solutions
-> |- tests/                      # Unit tests for solutions
+> aoc-23-practice/
+>   |- day01                       # Day 01 Files
+>     |- src/                      # Source files for solutions
+>     |- include/                  # Header files
+>     |- Makefile                  # Makefile to build and test solutions
+>   |- day02                       # Day 02 Files
+>     |- src/                      # Source files for solutions
+>     |- include/                  # Header files
+>     |- Makefile                  # Makefile to build and test solutions
+>   |- day03                       # Day 03 Files
+>     |- src/                      # Source files for solutions
+>     |- include/                  # Header files
+>     |- Makefile                  # Makefile to build and test solutions
 
 ## Usage
 
