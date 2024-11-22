@@ -10,10 +10,6 @@ The repository is structured as follows:
 aoc-23-practice/
 |- README.md
 |- day01/                       # Day01 directory
-  |- src/                       # Source files for solutions
-  |- include/                   # Header files
-  |- tests/                     # Unit tests for solutions
-  |- Makefile                   # Makefile to build and test solutions
 |- day02/                       # Day02 directory
   |- src/                       # Source files for solutions
   |- include/                   # Header files
